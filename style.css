@@ -9,6 +9,11 @@ body {
   background-color: #119da4;
 }
 #descricao {
+  display: inline-block;
+  position: absolute;
+  width: 500px;
+  margin: 30px;
+  top: 400px;
   font-weight: 500;
   font-size: 17px;
   text-align: justify;
