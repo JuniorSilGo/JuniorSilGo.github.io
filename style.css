@@ -2,10 +2,10 @@
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 27px;
-
 }
 
-.menu, .menu-itens a {
+.menu,
+.menu-itens a {
   list-style: none;
   text-decoration: none;
   text-align: center;
@@ -35,12 +35,13 @@ body {
   line-height: 25px;
 }
 
-.skills, .skills-itens {
-  margin-left: 70PX;
+.skills,
+.skills-itens {
+  margin-left: 70px;
   padding: 5px;
 }
 
-aside{
+aside {
   margin-left: 35px;
   padding: 5px;
 }
@@ -59,4 +60,9 @@ aside{
 }
 .skills-5 {
   font-size: 28px;
+}
+
+.skills-itens :nth-child(odd) {
+  font-family: monospace;
+  color: #13b9a3;
 }
