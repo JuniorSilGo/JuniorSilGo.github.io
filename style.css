@@ -1,0 +1,31 @@
+#nome {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+}
+#descricao {
+  font-family: monospace;
+}
+body {
+  background-color: #119da4;
+}
+#descricao {
+  font-weight: 500;
+  font-size: 17px;
+  text-align: justify;
+  line-height: 25px;
+}
+.skills-1 {
+  font-size: 20px;
+}
+.skills-2 {
+  font-size: 22px;
+}
+.skills-3 {
+  font-size: 24px;
+}
+.skills-4 {
+  font-size: 26px;
+}
+.skills-5 {
+  font-size: 28px;
+}
