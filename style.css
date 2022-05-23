@@ -34,6 +34,17 @@ body {
   text-align: justify;
   line-height: 25px;
 }
+
+.skills, .skills-itens {
+  margin-left: 70PX;
+  padding: 5px;
+}
+
+aside{
+  margin-left: 35px;
+  padding: 5px;
+}
+
 .skills-1 {
   font-size: 20px;
 }
